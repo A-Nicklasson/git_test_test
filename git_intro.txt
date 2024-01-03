@@ -1,3 +1,7 @@
 Början av min fil
 
 andra raden av kod
+
+lite mer kod 
+
+ännu mer kod
